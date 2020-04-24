@@ -1,11 +1,8 @@
 //
-// ZLIB License (see: ZLIB_LICENSE.txt)
-//
-// Modified from:
+// See:
 // https://github.com/aardappel/treesheets/blob/master/TS/scripts/Export%20JSON.lobster
 // This example script exports a TreeSheet to HTML.
 
-// Also a nice simple example on how to recurse through a TreeSheet in script.
 
 include "std.lobster"
 
