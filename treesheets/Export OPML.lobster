@@ -46,7 +46,7 @@ if fn.length:
     out.push("<head>\n")
     //TODO: ...
     out.push("</head>\n")
-    out.push("</body>\n")
+    out.push("<body>\n")
     add_cell(0)
     out.push("</body>\n")
     out.push("</opml>\n")
