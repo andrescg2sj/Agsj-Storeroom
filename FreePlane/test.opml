@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.1">
+<head>
+</head>
+<body>
+    <outline text="a">
+      <outline text="b" />
+      <outline text="c" />
+      <outline text="d" />
+    </outline>
+</body>
+</opml>
